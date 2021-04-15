@@ -1,1 +1,1 @@
-# travel-app-ui-template
+# Travel App UI Template
